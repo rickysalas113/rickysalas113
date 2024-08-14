@@ -12,8 +12,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/rickysalas113/Splunk-Lab">Splunk Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/rickysalas113/Splunk-Lab">Splunk Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -50,5 +50,5 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </div>
 
 ## Projects
-- Active Directory Project
+- <a href="https://github.com/rickysalas113/Splunk-Lab">Splunk Lab</a>
 - SOC Automation Project
