@@ -14,10 +14,10 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/rickysalas113/Splunk-Lab">Splunk Lab</a>|
 | Advanced understanding of SIEM concepts and practical application | <a href="https://github.com/rickysalas113/Splunk-Lab">Splunk Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/rickysalas113/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/rickysalas113/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/rickysalas113/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/rickysalas113/SOC-Automation-Lab">SOC Automation Lab</a>|
 
 ## Tools
 
@@ -36,7 +36,9 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/-Wazuh-000000?style=for-the-badge&logo=logo&logoColor=white" />
+
+
 </div>
 
 ## Certifications
@@ -51,4 +53,4 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## Projects
 - <a href="https://github.com/rickysalas113/Splunk-Lab">Splunk Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/rickysalas113/SOC-Automation-Lab">SOC Automation Lab</a>
