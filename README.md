@@ -6,7 +6,7 @@ I have a dedication to solving complex problems and consistently strive to find 
 
 ## Objective
 
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I have developed a deep passion for IT and am eager to transition into this field.With a strong commitment to learning and a drive to excel, I am ready to embrace new challenges and expand my expertise in this ever-evolving industry.
 
 ## Skills
 
