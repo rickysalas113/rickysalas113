@@ -6,7 +6,7 @@ I have a dedication to solving complex problems and consistently strive to find 
 
 ## Objective
 
-I have developed a deep passion for IT and am eager to transition into this field. With a strong commitment to learning and a drive to excel, I am ready to embrace new challenges and expand my expertise in this ever-evolving industry.
+I pursued these projects because I love learning, creating, and exploring tools across industries. Over time, I’ve developed a deep interest in IT and am excited to build a career in this dynamic field. With a strong drive to learn and innovate, I’m excited to embrace new challenges and contribute to the cutting-edge advancements shaping the future of technology.
 
 ## Skills
 
