@@ -6,8 +6,7 @@ I have a dedication to solving complex problems and consistently strive to find 
 
 ## Objective
 
-I pursued these projects because I love learning, creating, and exploring tools across industries. Over time, I’ve developed a deep interest in IT and am excited to build a career in this dynamic field. With a strong drive to learn and innovate, I’m excited to embrace new challenges and contribute to the cutting-edge advancements shaping the future of technology.
-
+I took on these projects because I thrive on learning, creating, and diving into the tools and technologies that power various industries. Over time, I’ve developed a deep passion for IT and am eager to carve out a career in this innovative and fast-paced field. Driven by curiosity, a love for problem-solving, and a commitment to continuous growth, I’m excited to take on new challenges and contribute to the transformative advancements shaping the future of technology.
 ## Skills
 
 | Skill                                         | Associated Project         |
