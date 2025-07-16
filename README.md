@@ -47,6 +47,7 @@ I took on these projects because I thrive on learning, creating, and diving into
 
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
+<img src="https://img.shields.io/badge/-CCNA-0066cc?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
 </div>
 
